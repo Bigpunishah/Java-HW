@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 import java.text.DecimalFormat;
 
 
@@ -11,8 +10,6 @@ class rectangle{
     private double length = 1;
     private double area = 1;
     private double perimeter = 1;
-    double inputLength  =1;
-    double inputWidth = 1;
 
     public void inputLength(){
         double inputLength;
@@ -50,8 +47,6 @@ class rectangle{
     
 
 }
-
-
 
 public class MainRectangle{
     public static void main(String[]args){
